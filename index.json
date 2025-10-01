@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "welcome",
+    "title": "Welcome to My Blog",
+    "date": "2024-01-01",
+    "excerpt": "This is my first blog post. Welcome to my simple static site built with vanilla HTML, CSS, and JavaScript!"
+  },
+  {
+    "slug": "markdown-guide",
+    "title": "Complete Markdown Guide for Content Creation",
+    "date": "2024-01-02",
+    "excerpt": "A comprehensive guide on how to write content in Markdown for this site, including tips and best practices."
+  },
+  {
+    "slug": "why-vanilla-js",
+    "title": "Why I Choose Vanilla JavaScript Over Frameworks",
+    "date": "2024-01-03",
+    "excerpt": "Exploring the benefits of using vanilla JavaScript for simple projects and when frameworks might be overkill."
+  }
+]
